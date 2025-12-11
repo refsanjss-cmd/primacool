@@ -1,0 +1,11 @@
+{
+  "name": "primacool-invoice-system",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'Static'"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
